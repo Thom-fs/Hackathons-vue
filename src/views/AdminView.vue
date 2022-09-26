@@ -14,6 +14,7 @@ export default {
   components: {
     Admin,
   },
+
   methods: {
     /* Récupération des données de l'event unique sur lequel on se trouve */
     async getEventUnique() {
